@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "phonebook-ocr",
+  "private_key_id": "add you key",
+  "private_key": "-----BEGIN PRIVATE KEY-----\yourkey+\yourkey+yourkey\yourkey/c/yourkey\yourkey+yourkey/yourkey\nubiC/yourkey\yourkey+yourkey\yourkey/yourkey+yourkey/Z8s\ngWy4H/g3EsqUxGZvMeHfw9eRVJD/jno5Bw2BMTiz8abPOkCsBvbTFSCiCnixnbdP\nTnz/6zO1gHb4r6t4wP0gN5leXBU0IY/NBH6t2sPtGHD6rJ8XezIBIu2wNbMuuC+Z\niRGGhtrzKu46hC8FYVl6rLeRZ2KwPqViuPKgS3wCvvs8TwH7oA1u8AU1BdkclUmB\niwQjE28tOh+2NomDm1rOVRTiI9wuvgNUm4DuhsqjTIvrTgk5JrKB9RpjpS1NumgN\nPibur/7cH5Ae7keBhrc/7v8iZVgmtM66mN7gJXywYQKBgQDMtydLRWfUMjbf/TDD\nSJo1VIn9KuMfT4m1Fj3s4s7zWy7DmSUOJQ8TW4DQpKs8xpNLi2xO/Pe//wXkTXjO\naNSN3ujtsnG1kvqiY55y8oTeluXq/qW5dsrKXZ4N6YsL5XBuDx3phN/v/7XlIiLs\nQKe1ZXYy3Bi9z1+l7hnMMisjMQKBgQDFbS8JJGvFNfSpq1OCWMu4oh6Wwvz2elo3\nFIxbKB8urpQi81X0IbiInx06ItM9RlRBrUKbug5IaSIppzYenZq0UUQymlcFEUly\nhhma1Iy9T2DtlekZeTeI/Yl1kUr15wPHLs7GwPo+sNGXA+46X3fqDaRtlBNpig+m\nJMkQRlrhuwKBgFEGUNwe7Vh0Q3nmCW3Rh4+CFVeJqPlUjsmIsxvWLVjuhxTNwXfW\nvR/JQLPT6R6V7eihl02wHBL2ygsxipYPsckxJ/okfZMDSIYLbcRLLsG28etPvKIq\nXVs5MHyLKgicWCKHgyxQ9h1UlVbKaw4dDQPj06OPr484y7+t/LHwTViRAoGABVy1\nzlXC55RTlNgmaH/o6JbepdGd9UPVd3GDbmZkkmwDcf+R8hOIY42Oyalwe1WRrEb8\nbCZdhPH2D5OPEL3PGd6rL4SpoGWbzRR/VYk4WVvykgFkV2DHdV0NgrfzhUJFA//t\nddB/+yourkey\nR7zy0/T8mwWzcAZl/yourkey\yourkey/yourkey\yourkey=\n-----END PRIVATE KEY-----\n",
+  "client_email": "yourkey",
+  "client_id": "yourkey",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ocr-917%40phonebook-ocr.iam.gserviceaccount.com"
+}
